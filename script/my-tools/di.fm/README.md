@@ -16,7 +16,7 @@ pip install PyGObject==3.40.1
 or
 
 ```shell
-pip3 install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 详情 ：
