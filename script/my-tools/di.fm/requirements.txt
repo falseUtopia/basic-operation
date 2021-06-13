@@ -1,0 +1,7 @@
+pyperclip~=1.8.2
+
+pywebview==3.4
+cefpython3==66.0
+PyQt5==5.15.4
+PyQtWebengine==5.15.4
+PyGObject==3.40.1
