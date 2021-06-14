@@ -5,6 +5,8 @@
 #  https://github.com/falseUtopia/basic-operation
 #
 
+##  脚本来源 > https://falseutopia.github.io/post/get-jet-brains-latest-download-url/
+
 #   支持的选项
 #            allProductsPack: "ALL",
 #            appcode: "AC",
