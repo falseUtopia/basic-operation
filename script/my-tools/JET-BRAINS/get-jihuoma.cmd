@@ -1,3 +1,9 @@
+:: 
+::  Copyright (c) 2021. falseUtopia All rights reserved.
+::  Licensed under BSD license
+::
+::  https://github.com/falseUtopia/basic-operation
+::
 
 @ECHO OFF
 
